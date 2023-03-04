@@ -85,5 +85,8 @@ RNA chain family information has been collected from Rfam website on January 23,
 
 ### Terms  
 Where appropriate, please cite the following RNA-NRD paper:  
-Nabila et al. "RNA-NRD: a Non-redundant RNA Structural Dataset for Benchmarking and Functional Analys."  
+Nabila et al. "RNA-NRD: a Non-redundant RNA Structural Dataset for Benchmarking and Functional Analys." 
+
+### Contact
+For any questions, please contact nabilakhan@knights.ucf.edu  
 
