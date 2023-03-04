@@ -1,0 +1,2 @@
+PDB_id1	chain1	Seq1	PDB_id2	chain2	Seq2	RMSD_Value	Alignment_len	Res_cor1	Res_cor2
+6O8Z	a	1528	6W6P	a	1548	2.31A	1286	1523	1523

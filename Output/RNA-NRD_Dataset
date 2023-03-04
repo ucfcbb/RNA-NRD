@@ -1,0 +1,16 @@
+Cluster_ID	Representative	Redundant_cluster	Organism	Macromolecule_name	Family_name
+1	6YSI_1	6YHS_1,6V3A_AN1,6V3B_AN1,6YSI_1	Acinetobacter_baumannii	23S_ribosomal_RNA,23s_ribosomal_RNA	other
+2	6YSI_5	6V3B_B,6YHS_5,6YSI_5,6V3A_B	Acinetobacter_baumannii	5S_ribosomal_RNA,5s_ribosomal_RNA	other
+3	6V3A_sN1	6V3B_sN1,6V3A_sN1	Acinetobacter_baumannii	16s_Ribosomal_RNA	other
+4	6YSI_8	6YHS_8,6YSI_8	Acinetobacter_baumannii	E-site_tRNA	other
+5	6YSI_6	6YSI_6,6YHS_6	Acinetobacter_baumannii	E-site_tRNA	other
+6	3PDR_A	3PDR_A,3PDR_X	Bacillus_subtilis	M-box_Riboswitch_RNA	other
+7	6HA8_A	3J3V_A,6PPK_A,6HA8_A	Bacillus_subtilis	23S_rRNA,ribosome_RNA_23S	other
+8	6HA8_B	3J3V_B,6PPK_B,6HA8_B	Bacillus_subtilis	5S_rRNA,ribosome_RNA_5S	other
+9	6HA8_a	6HA8_a	Bacillus_subtilis	16S_rRNA	other
+10	6W6P_a	6O8Z_a,6W6P_a	Enterococcus_faecalis	16S_rRNA	other
+11	6W6P_A	6O8Z_A,6W6P_A	Enterococcus_faecalis	23S_rRNA	other
+12	6W6P_B	6W6P_B,6O8Z_B	Enterococcus_faecalis	5S_rRNA	other
+13	6HA8_x	6HA8_x	Escherichia_coli	P-tRNA(Leu)	other
+14	5ML7_B	5ML7_B,5ML7_A	Haloarcula_marismortui	23S_ribosomal_RNA	other
+15	5F5H_D	5F5H_D,5F5H_C	Mus_musculus	RNA_(5'-R(P*CP*CP*AP*CP*AP*CP*CP*GP*UP*UP*CP*UP*AP*GP*GP*UP*GP*CP*UP*GP*G)-3')	other

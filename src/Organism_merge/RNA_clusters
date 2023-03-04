@@ -1,0 +1,33 @@
+Cluster no: 1
+{'6YHS_1', '3J3V_A', '6V3B_AN1', '6HA8_A', '6PPK_A', '6W6P_A', '6YSI_1', '6V3A_AN1', '6O8Z_A'}
+[8, 8, 8, 8, 8, 8, 8, 8, 8]
+Cluster no: 2
+{'6V3B_B', '6YHS_5', '6YSI_5', '6V3A_B'}
+[3, 3, 3, 3]
+Cluster no: 3
+{'6HA8_a', '6O8Z_a', '6V3B_sN1', '6V3A_sN1', '6W6P_a'}
+[4, 4, 4, 4, 4]
+Cluster no: 4
+{'6YHS_8', '6YSI_8'}
+[1, 1]
+Cluster no: 5
+{'6YSI_6', '6YHS_6'}
+[1, 1]
+Cluster no: 6
+{'3PDR_A', '3PDR_X'}
+[1, 1]
+Cluster no: 7
+{'6PPK_B', '3J3V_B', '6W6P_B', '6HA8_B'}
+[3, 3, 3, 3]
+Cluster no: 8
+{'6O8Z_B'}
+[0]
+Cluster no: 9
+{'6HA8_x'}
+[0]
+Cluster no: 10
+{'5ML7_B', '5ML7_A'}
+[1, 1]
+Cluster no: 11
+{'5F5H_D', '5F5H_C'}
+[1, 1]
