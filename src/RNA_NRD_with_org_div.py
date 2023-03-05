@@ -158,7 +158,7 @@ def generate_output_with_org(output_with_org):
 
                     final_table_degree.write("%s\t%s\t%s\t%s\n" % (group_id, line_list[0], line_list, degree_list))
                     #final_table_degree.close()
-                    break
+                    continue
 
 
                 ### Find Max values

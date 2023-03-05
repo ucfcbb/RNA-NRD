@@ -170,7 +170,7 @@ def generate_output_without_org(output_without_org):
             final_table.write("%s\t%s\t%s\t%s\t%s\t%s\n" % (group_id, line_list[0], ', '.join(line_list), ', '.join(organism_list), ', '.join(list(set(macromolecule_list))), ', '.join(list(set(family_list)))))
             #group_id += 1
             #final_table.close()
-            break
+            continue
 
 
         ### Find Max values
