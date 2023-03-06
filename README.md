@@ -6,7 +6,7 @@ RNA-NRD source code is implemented using Python 3.8.10 and can be executed in 64
 #### Install JRE:  
 ```
 Debian/Ubuntu: apt install default-jre
-Fedora/CentOS: dnf install default-jre 
+Fedora/CentOS: dnf install java-latest-openjdk.x86_64
 ```
 #### Install python3:
 ```
