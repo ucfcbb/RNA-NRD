@@ -22,7 +22,7 @@ Fedora/CentOS: dnf install python3-pip
 It is required to install several python libraries to run RNA-NRD pipeline. These libraries are included in the [requirements.txt](requirements.txt) file. To install all required python libraries, please navigate to the RNA-NRD home directory in the terminal and execute the following command.
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ``` 
 
 #### Python packages that should already exist:  
